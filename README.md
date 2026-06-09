@@ -88,7 +88,6 @@ Full list: [EasyOCR supported languages](https://www.jaided.ai/easyocr/)
 ```
 local-image-to-text/
 ├── local_lens.py       # Application entry point
-├── requirements.txt    # Dependency list
 ├── README.md
 └── LICENSE
 ```
