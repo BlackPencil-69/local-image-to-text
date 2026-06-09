@@ -16,6 +16,10 @@
 - **Hardware Acceleration** — Automatically uses your GPU (CUDA) if available for significantly faster scanning, with a seamless CPU fallback.
 - **Modern Dark UI** — Clean, responsive interface built with PyQt6.
 
+## 🖼️ Screenshot
+
+![Local Lens GUI](GUI.png)
+
 ## 📋 Requirements
 
 - Python 3.8 or higher
